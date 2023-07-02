@@ -12,4 +12,4 @@ tags:
   
 ---
 
-Pour saisir plus amples concepts de la syntaxe de Javascript vanilla je me suis tourné vers la réalisation d'un petit projet simple mais efficace sur la technicité pour bien comprendre les bases du langage et de son fonctionnement. Ecrire un tâche, récupérer les données de l'input, les retranscrire à l'endroit souhaité, vider l'input et pouvoir supprimer n'importe quelle tâche a souhait en un clic ! 
+Pour saisir plus amples concepts de la syntaxe de Javascript vanilla je me suis tourné vers la réalisation d'un petit projet simple mais efficace sur la technicité pour bien comprendre les bases du langage et de son fonctionnement. Ecrire une tâche, récupérer les données de l'input, les retranscrire à l'endroit souhaité, vider l'input et pouvoir supprimer n'importe quelle tâche à souhait en un clic ! 
